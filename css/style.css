@@ -121,12 +121,12 @@ main{
     box-sizing: border-box;
 }
 
-#chek_mark {
+.chek_mark {
     color: #2CC6AB;
     border: 1.5px solid #2CC6AB;
 }
 
-#unchek_mark {
+.unchek_mark {
     color: red;
     border: 1.5px solid red;
 }
