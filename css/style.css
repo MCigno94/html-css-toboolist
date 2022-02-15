@@ -24,6 +24,36 @@ background: #FF9B00;
     font-size: 0.75rem;
 }
 
+.color_blue {
+    background-color: #09A9ED;
+    color: white;
+}
+
+.color_purple {
+    background-color: #AB5DE6;
+    color: white;
+}
+
+.color_green {
+    background-color: #2DC6AB;
+    color: white;
+}
+
+.color_orange {
+    background-color: #FF9B00;
+    color: white;
+}
+
+.color_light-purple {
+    background-color: #EC4A9D;
+    color: white;
+}
+
+.color_light-green {
+    background-color: #A3D116;
+    color: white;
+}
+
 /* header */
 
 header{
@@ -67,11 +97,6 @@ main{
     margin-bottom: 0.55rem;
 }
 
-.color_blue {
-    background-color: #09A9ED;
-    color: white;
-}
-
 #button_section {
     background-color: white;
     color: lightgray;
@@ -82,11 +107,11 @@ main{
     font-size: 0.75rem;
 }
 
-h3 {
-    margin-top: 1.25rem;
+.task {
+    margin-top: 1.5rem;
 }
 
-.bulle_spoint {
+.point_design {
     padding: 2px;
     margin-right: 0.5rem;
     border-radius: 50%;
@@ -96,5 +121,15 @@ h3 {
 
 #chek_mark {
     color: #2CC6AB;
-    border: 1px solid #2CC6AB;
+    border: 1.5px solid #2CC6AB;
+}
+
+#unchek_mark {
+    color: red;
+    border: 1.5px solid red;
+}
+
+.bullet_point {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
 }
