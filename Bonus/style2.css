@@ -70,6 +70,9 @@ header{
 .logo-text {
     display: inline-block;
     font-size: 2.5rem;
+    vertical-align: bottom;
+    height: 90px;
+    width: auto;
 }
 
 /* main */
@@ -149,5 +152,4 @@ footer {
     font-size: 2rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
-
 }

@@ -64,6 +64,9 @@ header{
 .logo-text {
     display: inline-block;
     font-size: 2.5rem;
+    vertical-align: bottom;
+    height: 90px;
+    width: auto;
 }
 
 /* main */
